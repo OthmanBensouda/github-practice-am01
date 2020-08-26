@@ -30,6 +30,8 @@ Portfolio Website Assignment
 | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
+|Othman Bensouda Koraichi  | 2     | OthmanBensouda |  <https://github.com/OthmanBensouda/Orion>   |      <https://othman-portfolio.netlify.app/>        |2020-08-26 
+
 
 
 
